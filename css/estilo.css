@@ -1,0 +1,20 @@
+*{
+    margin: 80px;
+}
+body{
+    background-color: black;
+}
+h1
+{ color:red;
+    font-size: 50px;
+
+}
+img{
+    width: 300px;
+    height: 300px;
+}
+p{
+    background-color: antiquewhite;
+    color: blue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
